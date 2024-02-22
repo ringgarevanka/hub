@@ -6,11 +6,11 @@
     --bgColor: #02350b;
     --bgColor2: #040404;
     --accentColor: #fff;
-    --accentColor2: #fff /*#068c1e*/;
+    --accentColor2: #068c1e;
     --font1: "Montserrat", sans-serif;
     --font2: "Poppins", sans-serif;
     --delay: 0.3s;
-    --bgimg: url(https://r4.wallpaperflare.com/wallpaper/955/598/490/nature-sky-light-landscape-wallpaper-b96088ed114a0d0bf607e86f20e1a65d.jpg);
+    /*--bgimg: url(your bg u.r.l);*/
 }
 
 body {
@@ -35,7 +35,7 @@ body {
     user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    background-image: var(--bgimg);
+    /*background-image: var(--bgimg);*/
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: blur(3px);
