@@ -4,7 +4,7 @@ const mainContainer = document.getElementById("main");
 function addmain(profilepicture, name, username, description, bottom_text) {
     return ` 
  <a id="profilePicture"> 
- <img src="${profilepicture}"> 
+ <img alt="Profile Pictures" src="${profilepicture}"> 
  </a> 
  <div id="name"> 
  ${name} 
