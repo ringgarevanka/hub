@@ -6,11 +6,10 @@
     --bgColor: #02350b;
     --bgColor2: #040404;
     --accentColor: #fff;
-    --accentColor2: #068c1e;
     --font1: "Montserrat", sans-serif;
     --font2: "Poppins", sans-serif;
     --delay: 0.3s;
-    /*--bgimg: url(your bg u.r.l);*/
+    /*--bgimg: url(your.url);*/
 }
 
 body {
